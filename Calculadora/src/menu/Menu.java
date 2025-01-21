@@ -7,7 +7,6 @@ public class Menu {
 
 	/**
 	 * 
-	 * @param pedirNumeros
 	 * @return Devuelve los numeros a operar
 	 */
 	public int[] pedirNumeros() {
